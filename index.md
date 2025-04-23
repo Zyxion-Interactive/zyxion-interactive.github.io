@@ -20,7 +20,7 @@ Play different. Play Zyxion.
 
 ## Projects
 
-Here are some of the projects we are working on 
+Here are some studios that are part of us.
 
 - **...**:
 - **...**: 
