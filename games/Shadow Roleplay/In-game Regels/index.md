@@ -2,51 +2,72 @@
 layout: default
 title: In-game Regels
 ---
-📜 Gedragscode – .....
+📜 Gedragscode – Shadow RP
+Welkom in onze roleplay-community! Om een veilige, eerlijke en meeslepende ervaring te garanderen voor alle spelers, hanteren wij de volgende richtlijnen. Door op deze server te spelen, ga je automatisch akkoord met deze regels.
 
-Welkom bij Shadow Roleplay! Om een veilige, eerlijke en meeslepende RP-ervaring te garanderen, gelden de volgende regels:
+1. 🔒 Respect & Veiligheid
+Behandel iedereen met respect, zowel in-character (IC) als out-of-character (OOC).
 
-🔒 Respect & Veiligheid
-Behandel iedereen met respect, zowel IC (in-character) als OOC (out-of-character).
-Discriminatie, haatzaaien, pesten of ongepast gedrag wordt niet getolereerd.
-Dreig niet met echte situaties of gebruik geen gevoelige onderwerpen (zoals zelfdoding, terrorisme), zowel binnen als buiten RP.
+Geen discriminatie, haatdragende uitspraken, pesterijen of ongepast gedrag.
 
-🧠 RP-kwaliteit & Gedrag
-Blijf in je rol (IC) tijdens het spelen, tenzij je duidelijk aangeeft dat je OOC praat.
-Gebruik realistische en logische handelingen die passen bij jouw rol en de situatie.
-Geen powergaming (acties afdwingen bij anderen zonder toestemming).
-Geen metagaming (kennis gebruiken die je personage niet realistisch kan weten).
-Geen fail-RP of onrealistisch gedrag dat de immersie breekt.
+Geen dreigementen of gevoelige onderwerpen zoals zelfdoding, zelfbeschadiging, terrorisme of andere real-life tragedies in of buiten RP.
 
-🛑 Verboden Gedrag
-Geen RDM (Random Deathmatch) of VDM (Vehicle Deathmatch).
-Geen combat logging (uitloggen om RP of gevolgen te vermijden).
-Geen gebruik van exploits, cheats of externe software.
-Geen misbruik van loot- of grindmechanics buiten aangewezen gebieden of contexten.
+2. 🧠 Kwaliteit van Roleplay
+Blijf altijd in je rol (IC), tenzij je OOC communiceert met duidelijke aanduiding (/ooc, ((...)), etc.).
 
-🏛️ Wet & Regels
-Volg de in-game wetten en respecteer in-game autoriteiten als onderdeel van de RP-wereld.
-IC-handelingen met serieuze OOC-gevolgen kunnen leiden tot OOC-straffen.
-Criminele RP is toegestaan, maar moet realistisch zijn, goed gepland en niet gespamd worden.
+Speel met logisch, realistisch en geloofwaardig gedrag dat past bij jouw karakter en situatie.
 
-🗨️ Communicatie
-Gebruik OOC-chat alleen indien nodig of voor korte vragen – houd het beperkt.
-Gebruik Discord/radio/telefoons IC alleen als jouw personage daar realistisch toegang tot heeft.
-OOC-conflict? Los het rustig op of neem contact op met een staflid.
+Verboden gedrag:
 
-👮 Staff & Meldingen
-Volg altijd de instructies van het staffteam op.
-Staffbeslissingen zijn definitief. Als je het er niet mee eens bent, kun je een respectvol beroep doen via Discord of ons formulier.
-Misbruik van het meldingssysteem (zoals valse meldingen) leidt tot straf.
+Powergaming – acties forceren zonder toestemming van anderen.
 
-🛡️ Straffen bij het Schenden van Regels
-Bij het overtreden van de regels kun je het volgende verwachten:
+Metagaming – kennis gebruiken die jouw personage niet IC kan weten.
 
-Waarschuwingen
+Fail-RP – onrealistisch of onsamenhangend gedrag dat de immersie verpest.
 
-Tijdelijke bans
+3. 🛑 Verboden Acties
+RDM (Random Deathmatch) en VDM (Vehicle Deathmatch) zijn niet toegestaan.
 
-Permanente verwijdering uit de community
+Combat logging (uitloggen om RP of gevolgen te vermijden) is strikt verboden.
 
-Door op deze server te spelen, ga je akkoord met deze Gedragscode.
-🧩 Roleplay is een gedeelde ervaring – houd het leuk, respectvol en creatief voor iedereen!
+Geen gebruik van bugs, glitches, cheats of externe software.
+
+Loot misbruik of grinden in niet-toegestane zones is niet toegestaan.
+
+4. 🏛️ Wetten & In-Game Regels
+Volg de in-game wetgeving en respecteer de autoriteiten binnen het RP-verhaal.
+
+Acties die IC lijken, maar ernstige OOC-gevolgen veroorzaken, kunnen ook OOC gestraft worden.
+
+Criminele RP is toegestaan, mits:
+
+Realistisch opgezet
+
+Niet overdreven of gespamd
+
+Gepland met aandacht voor kwaliteit
+
+5. 🗨️ Communicatie & OOC Gedrag
+Gebruik OOC-chat enkel wanneer noodzakelijk – houd het kort en relevant.
+
+Gebruik Discord, radio’s of telefoons IC alleen als jouw karakter daar realistisch toegang tot heeft.
+
+Heb je een conflict buiten RP? Los het kalm op of neem contact op met het staffteam.
+
+6. 👮 Staff & Meldingen
+Volg altijd de instructies van stafleden op.
+
+Staffbeslissingen zijn bindend. Ben je het niet eens? Dien dan een respectvol beroep in via Discord of ons meldformulier.
+
+Misbruik van het meldingssysteem (zoals valse rapporten) wordt bestraft.
+
+🛡️ Sancties bij Overtreding
+Bij het overtreden van deze regels kunnen de volgende maatregelen genomen worden:
+
+📋 Waarschuwing
+
+⏳ Tijdelijke ban
+
+⛔ Permanente uitsluiting van de community
+
+🧩 Roleplay is een gedeeld verhaal. Maak het samen leuk, respectvol en creatief voor iedereen.
