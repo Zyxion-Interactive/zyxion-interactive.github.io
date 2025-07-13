@@ -30,7 +30,7 @@ RDM (Random Deathmatch) en VDM (Vehicle Deathmatch) zijn niet toegestaan.
 
 Combat logging (uitloggen om RP of gevolgen te vermijden) is strikt verboden.
 
-Geen gebruik van bugs, glitches, cheats of externe software.
+Gebruik van bugs, glitches, cheats of externe software. is strikt verboden.
 
 Loot misbruik of grinden in niet-toegestane zones is niet toegestaan.
 
