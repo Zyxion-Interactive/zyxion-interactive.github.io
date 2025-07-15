@@ -3,71 +3,160 @@ layout: default
 title: In-game Regels
 ---
 📜 Gedragscode – Shadow RP
-Welkom in onze roleplay-community! Om een veilige, eerlijke en meeslepende ervaring te garanderen voor alle spelers, hanteren wij de volgende richtlijnen. Door op deze server te spelen, ga je automatisch akkoord met deze regels.
+Laat de wereld leven. Laat het verhaal groeien. En boven alles: respecteer elkaar.
 
-1. 🔒 Respect & Veiligheid
-Behandel iedereen met respect, zowel in-character (IC) als out-of-character (OOC).
+Welkom bij Shadow RP – een realistische roleplay-omgeving waar ieder karakter telt, iedere keuze gevolgen heeft, en samenwerking essentieel is. Om deze wereld geloofwaardig, veilig en leuk te houden, hanteren wij de volgende regels. Elke speler verklaart bij deelname deze regels te hebben gelezen en te zullen naleven.
 
-Geen discriminatie, haatdragende uitspraken, pesterijen of ongepast gedrag.
+🔒 1. RESPECT & VEILIGHEID (IC & OOC)
+🎯 Doel:
+Een inclusieve, respectvolle omgeving voor alle spelers, ongeacht afkomst, geslacht, identiteit, ervaring of rol.
 
-Geen dreigementen of gevoelige onderwerpen zoals zelfdoding, zelfbeschadiging, terrorisme of andere real-life tragedies in of buiten RP.
+✅ Verplicht:
+Behandel iedereen met menselijk respect, zowel IC als OOC.
 
-2. 🧠 Kwaliteit van Roleplay
-Blijf altijd in je rol (IC), tenzij je OOC communiceert met duidelijke aanduiding (/ooc, ((...)), etc.).
+Scheid altijd spel (IC) en persoonlijk (OOC) gedrag.
 
-Speel met logisch, realistisch en geloofwaardig gedrag dat past bij jouw karakter en situatie.
+Onthoud: achter ieder personage zit een echt persoon.
 
-Verboden gedrag:
+❌ Verboden:
+Discriminatie, racisme, homofobie, seksisme, transfobie.
 
-Powergaming – acties forceren zonder toestemming van anderen.
+Schelden, vernederen of treiteren, IC of OOC, zonder wederzijdse toestemming.
 
-Metagaming – kennis gebruiken die jouw personage niet IC kan weten.
+Grapjes of dreigementen rond gevoelige thema’s (zelfmoord, depressie, terrorisme, religie, trauma).
 
-Fail-RP – onrealistisch of onsamenhangend gedrag dat de immersie verpest.
+Toxic gedrag, zoals schelden in OOC, spammen in Discord, DM-harassment of “admin threats”.
 
-3. 🛑 Verboden Acties
-RDM (Random Deathmatch) en VDM (Vehicle Deathmatch) zijn niet toegestaan.
+⚠️ Voorbeeld:
+❌ “Je speelt als vrouw, dus je bent vast zwak.” = directe warning.
 
-Combat logging (uitloggen om RP of gevolgen te vermijden) is strikt verboden.
+✅ “Jouw karakter lijkt echt bang te zijn – goed gespeeld!” = positief gedrag.
 
-Gebruik van bugs, glitches, cheats of externe software. is strikt verboden.
+🧠 2. ROLEPLAYKWALITEIT & GEDRAG
+🎯 Doel:
+Een geloofwaardige, meeslepende wereld waar personages logisch en realistisch handelen.
 
-Loot misbruik of grinden in niet-toegestane zones is niet toegestaan.
+✅ Verplicht:
+Altijd in-character blijven tenzij OOC duidelijk wordt aangegeven (/ooc, ((tekst))).
 
-4. 🏛️ Wetten & In-Game Regels
-Volg de in-game wetgeving en respecteer de autoriteiten binnen het RP-verhaal.
+Denk na over de motivatie, persoonlijkheid en vaardigheden van je personage.
 
-Acties die IC lijken, maar ernstige OOC-gevolgen veroorzaken, kunnen ook OOC gestraft worden.
+Gedraag je realistisch, consequent, en binnen jouw rol.
 
-Criminele RP is toegestaan, mits:
+❌ Verboden:
+Powergaming = Iets afdwingen zonder toestemming.
+Bijv.: “Ik sla jou KO zonder jouw reactie af te wachten.”
 
-Realistisch opgezet
+Metagaming = Informatie gebruiken die jouw karakter OOC heeft gehoord.
+Bijv.: Via Discord hoor je dat iemand een wapen draagt en confronteer je hem IC.
 
-Niet overdreven of gespamd
+Fail-RP = Onrealistisch of onsamenhangend gedrag.
+Bijv.: Een boer die ineens als huurmoordenaar gaat handelen zonder IC-ontwikkeling.
 
-Gepland met aandacht voor kwaliteit
+Overpowered gedrag = Onsterfelijke of onrealistische acties zonder kwetsbaarheid.
 
-5. 🗨️ Communicatie & OOC Gedrag
-Gebruik OOC-chat enkel wanneer noodzakelijk – houd het kort en relevant.
+Scriptmisbruik = Systemen gebruiken buiten hun bedoelde functie.
 
-Gebruik Discord, radio’s of telefoons IC alleen als jouw karakter daar realistisch toegang tot heeft.
+🛑 3. VERBODEN TACTIEKEN & SYSTEMMISBRUIK
+🎯 Doel:
+Eerlijke, technische balans voor alle spelers, ongeacht middelen of ervaring.
 
-Heb je een conflict buiten RP? Los het kalm op of neem contact op met het staffteam.
+❌ Verboden:
+RDM (Random Deathmatch): Iemand doden zonder duidelijke en goed opgebouwde RP-reden.
 
-6. 👮 Staff & Meldingen
-Volg altijd de instructies van stafleden op.
+VDM (Vehicle Deathmatch): Iemand aanrijden of doden met een voertuig zonder goede IC-reden.
 
-Staffbeslissingen zijn bindend. Ben je het niet eens? Dien dan een respectvol beroep in via Discord of ons meldformulier.
+Combat logging: Uitloggen, crash faken of respawnen om aan arrestatie, dood of gevolgen te ontkomen.
 
-Misbruik van het meldingssysteem (zoals valse rapporten) wordt bestraft.
+Exploits / cheats / macro’s / externe programma’s.
 
-🛡️ Sancties bij Overtreding
-Bij het overtreden van deze regels kunnen de volgende maatregelen genomen worden:
+Lootgrind: Farmen zonder IC-reden of in zones zonder context.
 
-📋 Waarschuwing
+Alt-accounts / dubbele personages gebruiken voor voordelen.
 
-⏳ Tijdelijke ban
+🏛️ 4. CRIMINELEN, AUTORITEITEN & BURGERS
+👮 Politie / Hulpdiensten:
+Draag je functie professioneel uit: geen machtsmisbruik, geen vriendjespolitiek.
 
-⛔ Permanente uitsluiting van de community
+Gebruik geweld met reden en rapporteer dodelijk geweld aan staff.
 
-🧩 Roleplay is een gedeeld verhaal. Maak het samen leuk, respectvol en creatief voor iedereen.
+Houd aan de standaard procedures (Miranda rights, arrestatie, bewijs).
+
+💼 Civiele spelers:
+Werk aan karakterontwikkeling: geef je personage doelen, persoonlijkheid en achtergrond.
+
+Wees geen passieve toeschouwer, maar ook geen chaosstarter.
+
+Realistische acties hebben realistische gevolgen – wees bereid die te aanvaarden.
+
+🔫 Criminelen:
+Criminele RP moet verhaalgedreven, realistisch, niet repetitief en met planning zijn.
+
+Grote acties (bankoverval, gijzeling) vereisen staff-goedkeuring.
+
+Moorden zijn alleen toegestaan bij sterke motivatie en zonder trollgedrag.
+
+🗨️ 5. OOC GEDRAG & COMMUNICATIE
+✅ Richtlijnen:
+Houd OOC-chat kort en functioneel.
+
+Vermijd IC gedrag via OOC-kanalen (Discord plannen voor IC situaties = metagaming).
+
+Wees constructief: geef feedback op gedrag, niet op persoonlijkheid.
+
+❌ Verboden:
+OOC ruzies in RP gebruiken (“Jij irriteerde mij gisteren, dus ik arrest je nu IC”).
+
+Voicechats gebruiken voor IC-communicatie buiten het spel (tenzij IC toegestaan).
+
+Staff-discussies in openbare kanalen.
+
+👮 6. STAFFREGELS & MELDINGEN
+✅ Wat mag je verwachten:
+Staff behandelt iedere zaak eerlijk, objectief en met respect.
+
+Staff is getraind, gebonden aan regels en geen RP-personages met macht.
+
+Elk lid mag een klacht indienen via Discord, anoniem indien gewenst.
+
+❌ Verboden:
+Leugens vertellen in reports of staffchanels.
+
+Staff gebruiken als bedreiging (“Ik ken een admin, dus jij bent straks geband!”).
+
+Opzettelijk trollen, spammen of liegen bij meldingen = strafbaar.
+
+🛡️ 7. SANCTIES & STRAFSYSTEEM
+⚠️ Overtredingsniveaus:
+Lichte fout – waarschuwing of uitleg
+
+Matige overtreding – tijdelijke ban (24u tot 7d)
+
+Ernstige schending – lange ban of permaban
+
+📝 Voorbeelden van straffen:
+Overtreding	Strafcategorie	Strafmaat
+
+Metagaming	Matig	Warn
+
+RDM	Matig/Ernstig	3–7 dagen ban / permaban
+
+Powergaming	Matig	Warn/ 1–5 dagen ban
+
+Combat logging Ernstig	5 dagen ban of permaban
+
+Toxic gedrag OOC	Ernstig	Permaban / Discord verwijdering
+
+Staff disrespect/trolling	Matig/Ernstig	1–7 dagen ban / blacklist staffkanaal
+
+Staff behoudt het recht om straffen aan te passen op basis van context, gedragsgeschiedenis en attitude.
+
+🎭 8. SLOTBEPALINGEN
+Shadow RP is een samenwerkingsproject: zonder community is er geen wereld.
+
+Luister, leer en verbeter samen.
+
+Roleplay is geen strijd – het is een verhaal dat je samen schrijft.
+
+🧩 Iedere speler draagt bij aan de kwaliteit van de ervaring.
+💬 Heb je vragen? Suggesties? Feedback? Kom naar Discord of spreek een stafflid aan.
