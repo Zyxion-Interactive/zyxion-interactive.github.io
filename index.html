@@ -6,32 +6,33 @@
   <title>Zyxion Interactive</title>
   <style>
     :root {
-      --dark-blue: #183b56;
-      --medium-blue: #2a71a0;
-      --light-blue: #81c3e6;
+      --gold-light: #f9d97e;
+      --gold-medium: #e2ac3d;
+      --gold-dark: #b07f13;
       --white: #ffffff;
-      --text-dark: #0f2437;
-      --bg-light: #f0f6fb;
+      --text-light: #dddcdc;
+      --bg-dark: #000000;
     }
 
     body {
       margin: 0;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: var(--bg-light);
-      color: var(--text-dark);
+      background-color: var(--bg-dark);
+      color: var(--text-light);
       display: flex;
       flex-direction: column;
       min-height: 100vh;
     }
 
     header {
-      background: linear-gradient(90deg, var(--dark-blue), var(--medium-blue));
+      background: linear-gradient(90deg, var(--gold-dark), var(--gold-medium), var(--gold-light));
       padding: 1rem 2rem;
       color: var(--white);
       font-weight: bold;
       font-size: 1.5rem;
       text-align: center;
-      box-shadow: 0 2px 6px rgba(24, 59, 86, 0.7);
+      box-shadow: 0 3px 8px rgba(255, 190, 50, 0.7);
+      letter-spacing: 1.2px;
     }
 
     main {
@@ -42,9 +43,10 @@
     }
 
     h1, h2, h3 {
-      color: var(--dark-blue);
+      color: var(--gold-light);
       margin-bottom: 0.6rem;
       text-align: center;
+      text-shadow: 0 0 5px var(--gold-medium);
     }
 
     h1 {
@@ -61,7 +63,7 @@
       line-height: 1.7;
       max-width: 700px;
       margin: 1rem auto;
-      color: var(--text-dark);
+      color: var(--text-light);
       text-align: center;
     }
 
@@ -69,12 +71,12 @@
       max-width: 700px;
       margin: 1rem auto 2rem auto;
       padding-left: 1.3rem;
-      color: var(--text-dark);
+      color: var(--text-light);
     }
 
     a.button {
       display: inline-block;
-      background-color: var(--medium-blue);
+      background-color: var(--gold-medium);
       color: var(--white);
       padding: 0.8rem 2.2rem;
       border-radius: 9999px;
@@ -83,19 +85,35 @@
       font-size: 1.15rem;
       transition: background-color 0.3s ease;
       margin: 2rem auto;
+      box-shadow: 0 0 8px var(--gold-light);
     }
 
     a.button:hover {
-      background-color: var(--light-blue);
+      background-color: var(--gold-light);
+      color: var(--gold-dark);
+      box-shadow: 0 0 12px var(--gold-medium);
+    }
+
+    a {
+      color: var(--gold-medium);
+      font-weight: 600;
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+
+    a:hover {
+      color: var(--gold-light);
+      text-decoration: underline;
     }
 
     footer {
       text-align: center;
       padding: 1rem 2rem;
       font-size: 0.9rem;
-      color: var(--dark-blue);
-      background-color: var(--bg-light);
-      border-top: 1px solid var(--medium-blue);
+      color: var(--gold-medium);
+      background-color: var(--bg-dark);
+      border-top: 1px solid var(--gold-dark);
+      text-shadow: 0 0 4px var(--gold-dark);
     }
   </style>
 </head>
@@ -127,7 +145,7 @@
   <p>Have questions or want to discuss something? Join the conversation in our Discord!</p>
 
   <h2>Contact</h2>
-  <p>Feel free to reach out to us via <a href="https://x.com/Zyxionofficial" target="_blank" rel="noopener noreferrer" style="color: var(--medium-blue); font-weight: 600;">X (Twitter)</a></p>
+  <p>Feel free to reach out to us via <a href="https://x.com/Zyxionofficial" target="_blank" rel="noopener noreferrer">X (Twitter)</a></p>
 </main>
 
 <footer>
