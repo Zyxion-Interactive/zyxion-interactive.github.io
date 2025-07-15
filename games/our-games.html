@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Our Games – Zyxion Interactive</title>
+  <style>
+    :root {
+      --purple: #8e44ad;
+      --blue: #2980b9;
+      --light-blue: #81c3e6;
+      --white: #ffffff;
+      --text-light: #dddddd;
+      --bg-dark: #000000;
+      --accent: #4fc1e9;
+    }
+
+    body {
+      margin: 0;
+      background-color: var(--bg-dark);
+      color: var(--text-light);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    header {
+      background: linear-gradient(90deg, var(--purple), var(--blue));
+      padding: 2rem 1rem 1rem;
+      text-align: center;
+      box-shadow: 0 3px 8px rgba(0, 0, 0, 0.6);
+    }
+
+    header h1 {
+      font-size: 3rem;
+      font-weight: bold;
+      color: var(--white);
+      margin: 0;
+    }
+
+    main {
+      flex-grow: 1;
+      max-width: 1000px;
+      margin: 2rem auto;
+      padding: 0 1rem 3rem 1rem;
+    }
+
+    h2 {
+      color: var(--accent);
+      text-align: center;
+      margin-top: 2rem;
+      font-size: 2rem;
+    }
+
+    .game-list {
+      display: grid;
+      gap: 2rem;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      padding: 2rem 0;
+    }
+
+    .game {
+      background-color: #111111;
+      border: 1px solid #333;
+      padding: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(129, 195, 230, 0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .game:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 0 12px var(--blue);
+    }
+
+    .game h3 {
+      color: var(--light-blue);
+      margin-bottom: 0.5rem;
+    }
+
+    .game p {
+      font-size: 1rem;
+      color: var(--text-light);
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem 2rem;
+      font-size: 0.9rem;
+      color: var(--light-blue);
+      background-color: var(--bg-dark);
+      border-top: 1px solid var(--blue);
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Zyxion Interactive</h1>
+</header>
+
+<main>
+  <h2>Our Games</h2>
+
+  <div class="game-list">
+    <div class="game">
+      <h3>Shadow Roleplay</h3>
+      <p>A Dutch-themed FiveM roleplay server that brings realism and immersion together. Built from scratch for RP lovers.</p>
+    </div>
+
+    <div class="game">
+      <h3>Signal Lost: Protocol (Coming soon)</h3>
+      <p>A stealth-survival experiment that blurs the line between government conspiracy and alien contact.</p>
+    </div>
+
+  </div>
+</main>
+
+<footer>
+  &copy; 2025 Zyxion Interactive – All rights reserved.
+</footer>
+
+</body>
+</html>
