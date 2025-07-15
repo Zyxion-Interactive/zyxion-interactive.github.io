@@ -6,33 +6,40 @@
   <title>Zyxion Interactive</title>
   <style>
     :root {
-      --gold-light: #f9d97e;
-      --gold-medium: #e2ac3d;
-      --gold-dark: #b07f13;
+      --purple: #8e44ad;
+      --blue: #2980b9;
+      --light-blue: #81c3e6;
       --white: #ffffff;
-      --text-light: #dddcdc;
+      --text-light: #dddddd;
       --bg-dark: #000000;
+      --accent: #4fc1e9;
     }
 
     body {
       margin: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background-color: var(--bg-dark);
       color: var(--text-light);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       display: flex;
       flex-direction: column;
       min-height: 100vh;
     }
 
     header {
-      background: linear-gradient(90deg, var(--gold-dark), var(--gold-medium), var(--gold-light));
-      padding: 1rem 2rem;
-      color: var(--white);
-      font-weight: bold;
-      font-size: 1.5rem;
+      padding: 2rem 1rem 1rem;
       text-align: center;
-      box-shadow: 0 3px 8px rgba(255, 190, 50, 0.7);
-      letter-spacing: 1.2px;
+      background-color: #000;
+    }
+
+    header h1 {
+      font-size: 3rem;
+      font-weight: bold;
+      background: linear-gradient(90deg, var(--purple), var(--blue));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-fill-color: transparent;
+      margin: 0;
     }
 
     main {
@@ -42,20 +49,11 @@
       padding: 0 1rem 3rem 1rem;
     }
 
-    h1, h2, h3 {
-      color: var(--gold-light);
-      margin-bottom: 0.6rem;
-      text-align: center;
-      text-shadow: 0 0 5px var(--gold-medium);
-    }
-
-    h1 {
-      font-size: 2.8rem;
-    }
-
     h2 {
-      font-size: 2rem;
+      color: var(--accent);
+      text-align: center;
       margin-top: 2rem;
+      font-size: 2rem;
     }
 
     p {
@@ -63,8 +61,8 @@
       line-height: 1.7;
       max-width: 700px;
       margin: 1rem auto;
-      color: var(--text-light);
       text-align: center;
+      color: var(--text-light);
     }
 
     ul {
@@ -76,33 +74,30 @@
 
     a.button {
       display: inline-block;
-      background-color: var(--gold-medium);
+      background: linear-gradient(to right, var(--purple), var(--blue));
       color: var(--white);
       padding: 0.8rem 2.2rem;
       border-radius: 9999px;
       text-decoration: none;
       font-weight: 600;
       font-size: 1.15rem;
-      transition: background-color 0.3s ease;
+      transition: background 0.3s ease;
       margin: 2rem auto;
-      box-shadow: 0 0 8px var(--gold-light);
+      text-align: center;
+      box-shadow: 0 0 10px rgba(129, 195, 230, 0.5);
     }
 
     a.button:hover {
-      background-color: var(--gold-light);
-      color: var(--gold-dark);
-      box-shadow: 0 0 12px var(--gold-medium);
+      background: linear-gradient(to right, var(--blue), var(--purple));
     }
 
     a {
-      color: var(--gold-medium);
+      color: var(--light-blue);
       font-weight: 600;
       text-decoration: none;
-      transition: color 0.3s ease;
     }
 
     a:hover {
-      color: var(--gold-light);
       text-decoration: underline;
     }
 
@@ -110,21 +105,20 @@
       text-align: center;
       padding: 1rem 2rem;
       font-size: 0.9rem;
-      color: var(--gold-medium);
+      color: var(--light-blue);
       background-color: var(--bg-dark);
-      border-top: 1px solid var(--gold-dark);
-      text-shadow: 0 0 4px var(--gold-dark);
+      border-top: 1px solid var(--blue);
     }
   </style>
 </head>
 <body>
 
 <header>
-  Zyxion Interactive
+  <h1>Zyxion Interactive</h1>
 </header>
 
 <main>
-  <h1>Hello! Welcome on the Zyxion page.</h1>
+  <p>Hello! Welcome on the Zyxion page.</p>
 
   <h2>About us</h2>
   <p>Zyxion Interactive is an independent game studio on a mission to create worlds that leave a mark. We craft games that aren’t just played—they’re experienced. From pulse-pounding action to rich storytelling and unique multiplayer adventures, our goal is to build games that stick with you.</p>
@@ -136,9 +130,9 @@
   <h2>Projects</h2>
   <p>Here are some projects we are working on.</p>
   <ul>
-    <li><strong>Shadow Roleplay:</strong> Our first FiveM made in a dutch theme.</li>
-    <li>…:</li>
-    <li>…:</li>
+    <li><strong>Shadow Roleplay:</strong> Our first FiveM made in a Dutch theme.</li>
+    <li>…</li>
+    <li>…</li>
   </ul>
 
   <h2>Join the Discussion</h2>
